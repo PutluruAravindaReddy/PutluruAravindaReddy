@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putluruaravindareddy&label=Profile%20views&color=0e75b6&style=flat" alt="putluruaravindareddy" /> </p>
 
-- 🌱 I’m currently learning **Next JS and DSA**
+- 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
-- 💬 Ask me about **Java , DSA , HTML , CSS , BootStrap , Tailwan CSS, JavaScript ,API'S , Node JS , Mongo DB**
+- 💬 Ask me about **Java , Python , DSA , HTML , CSS , Tailwan CSS , JavaScript , Next JS , Node JS , Mongo DB , Numpy , Pandas , Matplotlib**
 
 - 📫 How to reach me **aravindareddy60@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZDVDxzK49rBZtIsR3wS6QVqLR_o7Wm_U/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tF2RHdQsblyFNE26v2UR9MJh_FRYHCVn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
